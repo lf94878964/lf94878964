@@ -1,7 +1,7 @@
 [![中文](https://img.shields.io/badge/語言-中文-0A66C2?style=for-the-badge)](README.md)
 [![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README.en.md)
 
-# Hi, I'm lf94878964 (a stubborn Taiwan independence supporter)
+# Hi, I'm lf94878964 (a stubborn Miaoli separatists)
 
 Programming is more of a hobby for me. I'm just a high school student, and most of what I know comes from figuring things out myself — writing, searching, and learning from my mistakes along the way. My main focus is building Discord bots. Occasionally I also make small tools related to math or data processing. When I finish something I find interesting, I throw it up on GitHub as a record — I don't always keep maintaining them.
 
@@ -16,6 +16,7 @@ Rather than making the code look super clean, I care more about whether people a
 This is currently the project I spend the most time on and care about the most — a large public Discord bot that I wrote from scratch and have been maintaining ever since. Originally I just wanted something fun for people to play with in a server. I never expected it to grow its own long-term user base.
 
 It is now in over **3,000** servers, with more than **2.87 million** command uses. It features a complete virtual economy system (currency, shop, items), several fairly realistic gambling games, plus a bunch of chaotic and not-so-serious features that somehow become addictive. The main design goal is basically "killing boredom in Discord servers."
+~~But the bot's original purpose was to be a Galgame quote bot...~~
 
 I'll keep adding more stuff in the future. If you're interested, feel free to invite it to your server and try it out!
 
