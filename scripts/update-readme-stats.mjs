@@ -30,23 +30,17 @@ function nowString() {
 
 function buildBlock({ guilds, users, commands, version, banUsers, banServers, updated, lang }) {
   if (lang === 'en') {
-    return `| Servers | Users | Commands |
+    return `| Servers: ${guilds} | Users: ${users} | Commands: ${commands} |
 |:---:|:---:|:---:|
-| ${guilds} | ${users} | ${commands} |
+| Version: ${version} | Banned Users: ${banUsers} | Banned Servers: ${banServers} |
 
-| Version | Banned Users | Banned Servers |
-|:---:|:---:|:---:|
-| ${version} | ${banUsers} | ${banServers} |
 
 <sub>Last updated: ${updated}</sub>`;
   }
-  return `| 伺服器 | 使用者 | 指令次數 |
+  return `| 伺服器：${guilds} | 使用者：${users} | 指令次數：${commands} |
 |:---:|:---:|:---:|
-| ${guilds} | ${users} | ${commands} |
+| 版本：${version} | 停權用戶：${banUsers} | 停權社群：${banServers} |
 
-| 版本 | 停權用戶 | 停權社群 |
-|:---:|:---:|:---:|
-| ${version} | ${banUsers} | ${banServers} |
 
 <sub>最後更新時間：${updated}</sub>`;
 }
