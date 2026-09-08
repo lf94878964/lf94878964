@@ -1,0 +1,41 @@
+name: 更新機器人即時數據
+
+on:
+  schedule:
+    # 每小時的 17 分與 47 分執行一次（cron 時間為 UTC，但因只指定分鐘，不受時區影響）
+    - cron: '17,47 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-bot-stats
+  cancel-in-progress: false
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 更新 README 即時數據
+        run: node scripts/update-readme-stats.mjs
+
+      - name: 提交並推送變更
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md README.en.md
+          if git diff --cached --quiet; then
+            echo "數據沒有變化，略過提交。"
+          else
+            git commit -m "chore: 自動更新機器人即時數據"
+            git push
+          fi

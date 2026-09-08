@@ -23,6 +23,20 @@
 - 網站：https://murasamebot.com/home
 - [邀請機器人！](https://discord.com/oauth2/authorize?client_id=1379034361579438161&permissions=8&integration_type=0&scope=applications.commands+bot)
 
+### 即時數據
+
+<!-- BOT_STATS:START -->
+| 伺服器 | 使用者 | 指令次數 |
+|:---:|:---:|:---:|
+| 3.0k | 320.4k | 2.91M |
+
+| 版本 | 停權用戶 | 停權社群 |
+|:---:|:---:|:---:|
+| 1.6.4 | 1054 | 39 |
+
+<sub>最後更新時間：2026-09-08 23:08:57 (UTC+8)</sub>
+<!-- BOT_STATS:END -->
+
 ## 其他倉庫
 
 除了主力機器人之外，也放了一些平常寫的小東西：
@@ -48,3 +62,11 @@
 Discord 帳號是 `mura0721_`（ID: 1356782484565790840）跟 `mosa0721_`（ID: 1539165517670121535），有事的話直接私訊或進社群戳我都可以，看到通常都會回。（我使用頻率最高的是Discord喔～）
 
 如果對機器人開發、虛擬經濟系統設計，或單純想聊聊怎麼把一個小專案養成有 3,000 個群組在用的東西，都歡迎進社群一起聊。
+
+---
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lf94878964&theme=dark&locale=zh_Hant&hide_border=true)](https://git.io/streak-stats)
+
+</div>

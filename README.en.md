@@ -23,6 +23,20 @@ I'll keep adding more stuff in the future. If you're interested, feel free to in
 - Website: https://murasamebot.com/home
 - [Invite the bot!](https://discord.com/oauth2/authorize?client_id=1379034361579438161&permissions=8&integration_type=0&scope=applications.commands+bot)
 
+### Live Stats
+
+<!-- BOT_STATS:START -->
+| Servers | Users | Commands |
+|:---:|:---:|:---:|
+| 3.0k | 320.4k | 2.91M |
+
+| Version | Banned Users | Banned Servers |
+|:---:|:---:|:---:|
+| 1.6.4 | 1054 | 39 |
+
+<sub>Last updated: 2026-09-08 23:08:57 (UTC+8)</sub>
+<!-- BOT_STATS:END -->
+
 ## Other Repositories
 
 Besides the main bot, I've also put up some smaller things I made for fun:
@@ -48,3 +62,11 @@ Besides the main bot, I've also put up some smaller things I made for fun:
 My Discord accounts are `mura0721_` (ID: 1356782484565790840) and `mosa0721_` (ID: 1539165517670121535). Feel free to DM me or hop into the community server and poke me — I usually reply when I see it. (Discord is where I'm most active～)
 
 If you're interested in bot development, designing virtual economy systems, or just want to chat about how a small project grew into something used by 3,000+ servers, you're welcome to join the community and talk!
+
+---
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lf94878964&theme=dark&locale=zh_Hant&hide_border=true)](https://git.io/streak-stats)
+
+</div>
