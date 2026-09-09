@@ -28,10 +28,10 @@ I'll keep adding more stuff in the future. If you're interested, feel free to in
 <!-- BOT_STATS:START -->
 | Servers: 3.0k | Users: 321.0k | Commands: 2.92M |
 |:---:|:---:|:---:|
-| Version: 1.6.4 | Banned Users: 1055 | Banned Servers: 39 |
+| Version: 1.6.4 | Banned Users: 1056 | Banned Servers: 39 |
 
 
-<sub>Last updated: 2026-09-09 19:52:21 (UTC+8)</sub>
+<sub>Last updated: 2026-09-10 24:38:08 (UTC+8)</sub>
 <!-- BOT_STATS:END -->
 
 ## Other Repositories
