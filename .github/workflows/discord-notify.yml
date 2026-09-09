@@ -88,7 +88,7 @@ jobs:
               else if ($1 == "D") prefix = "🔴 刪除: "
               else prefix = $1 ": "
 
-              print prefix file " (+" a " / -" d ") [ +" ca "字 / -" cd "字 ]"
+              print prefix file " (+" a " / -" d ") [+" ca "字 / -" cd "字]"
             }
           ' /tmp/numstat.txt /tmp/charadd.tsv /tmp/chardel.tsv /tmp/namestatus.txt > /tmp/files.txt
 
