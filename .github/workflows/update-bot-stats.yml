@@ -2,7 +2,6 @@ name: 更新機器人即時數據
 
 on:
   schedule:
-    # 每小時的 17 分與 47 分執行一次（cron 時間為 UTC，但因只指定分鐘，不受時區影響）
     - cron: '17,47 * * * *'
   workflow_dispatch: {}
 

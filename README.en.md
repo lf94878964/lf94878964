@@ -42,6 +42,7 @@ Besides the main bot, I've also put up some smaller things I made for fun:
 - **[Discord-GmailForward](https://github.com/lf94878964/Discord-GmailForward)** — A small bot that automatically forwards emails from Gmail to a Discord channel. Mainly a personal notification tool I use myself.
 - **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) -100Million** — Pure text files of π, e, and √2 calculated to 100 million digits available for download. Just thought it was fun, no real practical use.
 - **[tcfsh-burn-timer](https://github.com/lf94878964/tcfsh-burn-timer)** — A "burn" (炎上) countdown timer themed around TCFSH. A small toy for school use.
+- **[Git-Bat](https://github.com/lf94878964/Git-Bat)** - A `.bat` executable file for Windows users to quickly use Git commands, including common Git commands (such as pull, push, branch, merge, etc.).
 
 ...and more
 
