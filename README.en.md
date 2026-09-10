@@ -68,3 +68,5 @@ If you're interested in bot development, designing virtual economy systems, or j
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lf94878964&theme=dark&locale=zh_Hant&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+<sub>Then my old account got flagged, and my commit data went straight to the graveyard 😭</sub>

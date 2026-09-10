@@ -68,3 +68,5 @@ Discord 帳號是 `mura0721_`（ID: 1356782484565790840）跟 `mosa0721_`（ID: 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lf94878964&theme=dark&locale=zh_Hant&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+<sub>然後我的舊帳號被肘擊了，Commit數據直接氨氨醛荃的抵達墓地地了😭</sub>
