@@ -40,7 +40,7 @@
 
 - **[DiscordCalculator](https://github.com/lf94878964/DiscordCalculator)** — 用 Discord.py 搭配 SymPy 寫的計算機器人，支援類 LaTeX 輸出、多種複雜函式，也能在純量、向量、矩陣之間切換運算，算是寫機器人之餘順便複習數學
 - **[Discord-GmailForward](https://github.com/lf94878964/Discord-GmailForward)** — 把 Gmail 收到的信自動轉發到 Discord 頻道的小機器人，主要是自己在用的通知工具
-- **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) / [Sqrt3](https://github.com/lf94878964/Sqrt3-100Million) / [Ln2](https://github.com/lf94878964/Ln2-100Million) - -100Million** — 分別提供 π、e、√2、√3、ln(2) 算到一億位的純文字檔下載，單純覺得好玩就丟上去了，沒有什麼特別的實用性
+- **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) / [Sqrt3](https://github.com/lf94878964/Sqrt3-100Million) / [Ln2](https://github.com/lf94878964/Ln2-100Million) -100Million** — 分別提供 π、e、√2、√3、ln(2) 算到一億位的純文字檔下載，單純覺得好玩就丟上去了，沒有什麼特別的實用性
 - **[tcfsh-burn-timer](https://github.com/lf94878964/tcfsh-burn-timer)** — 一中版的炎上倒數計時器，校內用的小玩具
 - **[Git-Bat](https://github.com/lf94878964/Git-Bat)** - 給 Windows 用戶快速使用 Git 指令的`.bat`執行檔，包含常見 Git 指令（例如：pull、push、branch、merge等）
 
