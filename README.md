@@ -1,7 +1,7 @@
 [![中文](https://img.shields.io/badge/語言-中文-0A66C2?style=for-the-badge)](README.md)
 [![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README.en.md)
 
-# 哈囉，我是 lf94878964（頑固苗獨分子）
+# 哈囉，我是頑固苗獨分子（lf94878964）
 
 寫程式對我來說比較像是一個興趣，只是一個高中生而已，很多東西都是自己摸索、邊寫邊查邊踩雷學起來的。平常主力是寫 Discord 機器人，偶爾也會做一些跟數學、資料處理有關的小玩具，寫完覺得有點意思就丟上 GitHub 放著，也不一定會持續維護，純粹是想留個紀錄。
 
