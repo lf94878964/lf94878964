@@ -40,7 +40,8 @@ Besides the main bot, I've also put up some smaller things I made for fun:
 
 - **[DiscordCalculator](https://github.com/lf94878964/DiscordCalculator)** — A calculation bot built with Discord.py + SymPy. Supports LaTeX-like output, many complex functions, and can switch between scalars, vectors, and matrices. Basically a way to review math while building bots.
 - **[Discord-GmailForward](https://github.com/lf94878964/Discord-GmailForward)** — A small bot that automatically forwards emails from Gmail to a Discord channel. Mainly a personal notification tool I use myself.
-- **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) -100Million** — Pure text files of π, e, and √2 calculated to 100 million digits available for download. Just thought it was fun, no real practical use.
+- **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) / [Sqrt3](https://github.com/lf94878964/Sqrt3-100Million) / [Ln2](https://github.com/lf94878964/Ln2-100Million) -100Million** — Pure text files of π, e, √2, √3 and ln2 calculated to 100 million digits available for download. Just thought it was fun, no real practical use.
+- **[Ciallo-Group](https://github.com/lf94878964/Ciallo-Group)** - Ciallo～(∠・ω< )⌒☆ A boring website's source code 👉[Click here to go to that website](https://ciallo.group/)
 - **[TCFSH-burn-timer](https://github.com/lf94878964/TCFSH-burn-timer)** — A "burn" (炎上) countdown timer themed around TCFSH. A small toy for school use.
 - **[Git-Bat](https://github.com/lf94878964/Git-Bat)** - A `.bat` executable file for Windows users to quickly use Git commands, including common Git commands (such as pull, push, branch, merge, etc.).
 
