@@ -31,7 +31,7 @@ I'll keep adding more stuff in the future. If you're interested, feel free to in
 | Version: 1.8 | Banned Users: 1071 | Banned Servers: 39 |
 
 
-<sub>Last updated: 2026-10-01 06:15:15 (UTC+8)</sub>
+<sub>Last updated: 2026-10-01 09:18:40 (UTC+8)</sub>
 <!-- BOT_STATS:END -->
 
 ## Other Repositories
