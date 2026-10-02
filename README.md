@@ -75,21 +75,18 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lf94878964&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented,contributions,all_time_contribs&show_icons=true&include_all_commits=true&hide_border=true&card_width=495&line_height=20&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F&ring_color=FF3B30" />
-  <img align="left" width="49%" src="https://github-stats-extended.vercel.app/api?username=lf94878964&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented,contributions,all_time_contribs&show_icons=true&include_all_commits=true&hide_border=true&card_width=495&line_height=20&bg_color=FFF8F3&title_color=E8380D&text_color=5A2A17&icon_color=F97316&ring_color=E8380D" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lf94878964&show_icons=true&include_all_commits=true&theme=great-gatsby" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=lf94878964&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented,contributions,all_time_contribs&show_icons=true&include_all_commits=true&hide_border=true&line_height=20&bg_color=FFF8F3&title_color=E8380D&text_color=5A2A17&icon_color=F97316&ring_color=E8380D&v=2" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lf94878964&locale=zh_Hant&hide_border=true&background=0D0705&ring=FF3B30&fire=FF8A1F&currStreakNum=FF8A1F&sideNums=FF4D2E&currStreakLabel=FF3B30&sideLabels=FFB27A&dates=FFD1B3&v=2" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=lf94878964&locale=zh_Hant&hide_border=true&background=FFF8F3&ring=E8380D&fire=F97316&currStreakNum=F97316&sideNums=E8380D&currStreakLabel=E8380D&sideLabels=C2410C&dates=5A2A17&v=2" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lf94878964&locale=zh_Hant&hide_border=true&background=0D0705&ring=FF3B30&fire=FF8A1F&currStreakNum=FF8A1F&sideNums=FF4D2E&currStreakLabel=FF3B30&sideLabels=FFB27A&dates=FFD1B3" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=lf94878964&locale=zh_Hant&hide_border=true&background=FFF8F3&ring=E8380D&fire=F97316&currStreakNum=F97316&sideNums=E8380D&currStreakLabel=E8380D&sideLabels=C2410C&dates=5A2A17" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lf94878964&layout=compact&langs_count=4&hide_border=true&card_width=700&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&v=2" />
+  <img width="98%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lf94878964&layout=compact&langs_count=4&hide_border=true&card_width=700&bg_color=FFF8F3&title_color=E8380D&text_color=5A2A17&v=2" />
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lf94878964&layout=compact&langs_count=4&hide_border=true&card_width=495&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lf94878964&layout=compact&langs_count=4&hide_border=true&card_width=495&bg_color=FFF8F3&title_color=E8380D&text_color=5A2A17" />
-</picture>
-
-<br clear="all" />
 
 </div>
 
