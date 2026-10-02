@@ -2,6 +2,8 @@
 [![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README.en.md)
 
 # Hi, I'm lf94878964 (a stubborn Miaoli separatists)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A449&vCenter=true&width=435&lines=Ciallo%EF%BD%9E%28%E2%88%A0%E3%83%BB%CF%89%3C+%29%E2%8C%92%E2%98%86;%E9%A0%91%E5%9B%BA%E8%8B%97%E7%8D%A8%E4%BB%BD%E5%AD%90" alt="Typing SVG" /></a>
+
 
 Programming is more of a hobby for me. I'm just a high school student, and most of what I know comes from figuring things out myself — writing, searching, and learning from my mistakes along the way. My main focus is building Discord bots. Occasionally I also make small tools related to math or data processing. When I finish something I find interesting, I throw it up on GitHub as a record — I don't always keep maintaining them.
 
@@ -57,6 +59,17 @@ Besides the main bot, I've also put up some smaller things I made for fun:
 <a href="https://bsky.app/profile/yukicon0321.bsky.social"><img src="https://img.shields.io/badge/Bluesky-yukicon0321-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
 <a href="https://truthsocial.com/@yukicon0321"><img src="https://img.shields.io/badge/Truth%20Social-yukicon0321-8B5CF6?style=for-the-badge" alt="Truth Social"></a>
 </p>
+
+<div align="center">
+  <a href="https://discord.com/users/1356782484565790840">
+    <img src="https://discord.c99.nl/widget/theme-3/1356782484565790840.png" alt="Discord Presence" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://discord.com/users/1539165517670121535">
+    <img src="https://discord.c99.nl/widget/theme-3/1539165517670121535.png" alt="Discord Presence" />
+  </a>
+</div>
 
 My Discord accounts are `mura0721_` (ID: 1356782484565790840) and `mosa0721_` (ID: 1539165517670121535). Feel free to DM me or hop into the community server and poke me — I usually reply when I see it. (Discord is where I'm most active～)
 

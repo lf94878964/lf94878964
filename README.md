@@ -3,6 +3,8 @@
 
 # 哈囉，我是頑固苗獨分子（lf94878964）
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A449&vCenter=true&width=435&lines=Ciallo%EF%BD%9E%28%E2%88%A0%E3%83%BB%CF%89%3C+%29%E2%8C%92%E2%98%86;%E9%A0%91%E5%9B%BA%E8%8B%97%E7%8D%A8%E4%BB%BD%E5%AD%90" alt="Typing SVG" /></a>
+
 寫程式對我來說比較像是一個興趣，只是一個高中生而已，很多東西都是自己摸索、邊寫邊查邊踩雷學起來的。平常主力是寫 Discord 機器人，偶爾也會做一些跟數學、資料處理有關的小玩具，寫完覺得有點意思就丟上 GitHub 放著，也不一定會持續維護，純粹是想留個紀錄。
 
 比起把程式碼寫得多漂亮，我更在意做出來的東西有沒有人真的會用、玩起來有沒有樂趣，所以你會發現我的專案大多偏向「拿去玩」而不是「拿去學架構」。
@@ -41,7 +43,7 @@
 - **[DiscordCalculator](https://github.com/lf94878964/DiscordCalculator)** — 用 Discord.py 搭配 SymPy 寫的計算機器人，支援類 LaTeX 輸出、多種複雜函式，也能在純量、向量、矩陣之間切換運算，算是寫機器人之餘順便複習數學
 - **[Discord-GmailForward](https://github.com/lf94878964/Discord-GmailForward)** — 把 Gmail 收到的信自動轉發到 Discord 頻道的小機器人，主要是自己在用的通知工具
 - **[Ciallo-Group](https://github.com/lf94878964/Ciallo-Group)** - Ciallo～(∠・ω< )⌒☆ 一個無聊網站源代碼👉[點我前往那個網站](https://ciallo.group/)
-- **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) / [Sqrt3](https://github.com/lf94878964/Sqrt3-100Million) / [Ln2](https://github.com/lf94878964/Ln2-100Million) -100Million** — 分別提供 π、e、√2、√3、ln(2) 算到一億位的純文字檔下載，單純覺得好玩就丟上去了，沒有什麼特別的實用性
+- **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) / [Sqrt3](https://github.com/lf94878964/Sqrt3-100Million) / [Ln2](https://github.com/lf94878964/Ln2-100Million) -100Million** — 分別提供 π、e、√2、√3、ln2 算到一億位的純文字檔下載，單純覺得好玩就丟上去了，沒有什麼特別的實用性
 - **[TCFSH-burn-timer](https://github.com/lf94878964/TCFSH-burn-timer)** — 一中版的炎上倒數計時器，校內用的小玩具
 - **[Git-Bat](https://github.com/lf94878964/Git-Bat)** - 給 Windows 用戶快速使用 Git 指令的`.bat`執行檔，包含常見 Git 指令（例如：pull、push、branch、merge等）
 
@@ -57,6 +59,17 @@
 <a href="https://bsky.app/profile/yukicon0321.bsky.social"><img src="https://img.shields.io/badge/Bluesky-yukicon0321-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
 <a href="https://truthsocial.com/@yukicon0321"><img src="https://img.shields.io/badge/Truth%20Social-yukicon0321-8B5CF6?style=for-the-badge" alt="Truth Social"></a>
 </p>
+
+<div align="center">
+  <a href="https://discord.com/users/1356782484565790840">
+    <img src="https://discord.c99.nl/widget/theme-3/1356782484565790840.png" alt="Discord Presence" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://discord.com/users/1539165517670121535">
+    <img src="https://discord.c99.nl/widget/theme-3/1539165517670121535.png" alt="Discord Presence" />
+  </a>
+</div>
 
 Discord 帳號是 `mura0721_`（ID: 1356782484565790840）跟 `mosa0721_`（ID: 1539165517670121535），有事的話直接私訊或進社群戳我都可以，看到通常都會回。（我使用頻率最高的是Discord喔～）
 
