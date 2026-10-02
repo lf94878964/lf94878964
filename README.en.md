@@ -28,9 +28,9 @@ I'll keep adding more stuff in the future. If you're interested, feel free to in
 ### Live Stats
 
 <!-- BOT_STATS:START -->
-| Servers: 3.1k | Users: 328.4k | Commands: 3.06M |
+| Servers: 3.2k | Users: 334.8k | Commands: 3.21M |
 |:---:|:---:|:---:|
-| Version: 1.6.9 | Banned Users: 1060 | Banned Servers: 39 |
+| Version: 26.8.2 | Banned Users: 1071 | Banned Servers: 39 |
 
 
 <sub>Last updated: 2026-09-20 07:36:55 (UTC+8)</sub>
