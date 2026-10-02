@@ -28,7 +28,7 @@ I'll keep adding more stuff in the future. If you're interested, feel free to in
 ### Live Stats
 
 <!-- BOT_STATS:START -->
-| Servers: 3.2k | Users: 334.8k | Commands: 3.21M |
+| Servers: 3.2k | Users: 336.6k | Commands: 3.21M |
 |:---:|:---:|:---:|
 | Version: 26.8.2 | Banned Users: 1071 | Banned Servers: 39 |
 
@@ -36,20 +36,30 @@ I'll keep adding more stuff in the future. If you're interested, feel free to in
 <sub>Last updated: 2026-10-02 13:41:01 (UTC+8)</sub>
 <!-- BOT_STATS:END -->
 
+
+
 ## Other Repositories
 
 Besides the main bot, I've also put up some smaller things I made for fun:
 
-- **[DiscordCalculator](https://github.com/lf94878964/DiscordCalculator)** — A calculation bot built with Discord.py + SymPy. Supports LaTeX-like output, many complex functions, and can switch between scalars, vectors, and matrices. Basically a way to review math while building bots.
-- **[Discord-GmailForward](https://github.com/lf94878964/Discord-GmailForward)** — A small bot that automatically forwards emails from Gmail to a Discord channel. Mainly a personal notification tool I use myself.
-- **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) / [Sqrt3](https://github.com/lf94878964/Sqrt3-100Million) / [Ln2](https://github.com/lf94878964/Ln2-100Million) -100Million** — Pure text files of π, e, √2, √3 and ln2 calculated to 100 million digits available for download. Just thought it was fun, no real practical use.
-- **[Ciallo-Group](https://github.com/lf94878964/Ciallo-Group)** - Ciallo～(∠・ω< )⌒☆ A boring website's source code 👉[Click here to go to that website](https://ciallo.group/)
-- **[TCFSH-burn-timer](https://github.com/lf94878964/TCFSH-burn-timer)** — A "burn" (炎上) countdown timer themed around TCFSH. A small toy for school use. 👉[Click here to go to that website](https://lf94878964.github.io/TCFSH-burn-timer/)
-- **[Git-Bat](https://github.com/lf94878964/Git-Bat)** - A `.bat` executable file for Windows users to quickly use Git commands, including common Git commands (such as pull, push, branch, merge, etc.).
+<div align="center">
+
+<a href="https://github.com/lf94878964/DiscordCalculator"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=DiscordCalculator&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Discord-GmailForward"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Discord-GmailForward&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Ciallo-Group"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Ciallo-Group&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/TCFSH-burn-timer"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=TCFSH-burn-timer&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Git-Bat"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Git-Bat&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Pi-100Million"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Pi-100Million&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/E-100Million"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=E-100Million&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Sqrt2-100Million"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Sqrt2-100Million&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Sqrt3-100Million"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Sqrt3-100Million&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Ln2-100Million"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Ln2-100Million&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+
+</div>
 
 ...and more
 
-## Where to find me
+## Links & Stats
 
 <p>
 <a href="https://discord.gg/nNn8GsF5bA"><img src="https://img.shields.io/badge/Discord-mura0721__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
@@ -59,6 +69,32 @@ Besides the main bot, I've also put up some smaller things I made for fun:
 <a href="https://bsky.app/profile/yukicon0321.bsky.social"><img src="https://img.shields.io/badge/Bluesky-yukicon0321-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
 <a href="https://truthsocial.com/@yukicon0321"><img src="https://img.shields.io/badge/Truth%20Social-yukicon0321-8B5CF6?style=for-the-badge" alt="Truth Social"></a>
 </p>
+
+
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lf94878964&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented,contributions,all_time_contribs&show_icons=true&include_all_commits=true&hide_border=true&card_width=495&line_height=20&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F&ring_color=FF3B30" />
+  <img align="left" width="49%" src="https://github-stats-extended.vercel.app/api?username=lf94878964&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented,contributions,all_time_contribs&show_icons=true&include_all_commits=true&hide_border=true&card_width=495&line_height=20&bg_color=FFF8F3&title_color=E8380D&text_color=5A2A17&icon_color=F97316&ring_color=E8380D" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lf94878964&locale=zh_Hant&hide_border=true&background=0D0705&ring=FF3B30&fire=FF8A1F&currStreakNum=FF8A1F&sideNums=FF4D2E&currStreakLabel=FF3B30&sideLabels=FFB27A&dates=FFD1B3" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=lf94878964&locale=zh_Hant&hide_border=true&background=FFF8F3&ring=E8380D&fire=F97316&currStreakNum=F97316&sideNums=E8380D&currStreakLabel=E8380D&sideLabels=C2410C&dates=5A2A17" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lf94878964&layout=compact&langs_count=4&hide_border=true&card_width=495&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lf94878964&layout=compact&langs_count=4&hide_border=true&card_width=495&bg_color=FFF8F3&title_color=E8380D&text_color=5A2A17" />
+</picture>
+
+<br clear="all" />
+
+</div>
+
+
+<sub>Then my old account got flagged, and my commit data went straight to the graveyard 😭</sub>
 
 <div align="center">
   <a href="https://discord.com/users/1356782484565790840">
@@ -70,17 +106,3 @@ Besides the main bot, I've also put up some smaller things I made for fun:
     <img src="https://discord.c99.nl/widget/theme-3/1539165517670121535.png" alt="Discord Presence" />
   </a>
 </div>
-
-My Discord accounts are `mura0721_` (ID: 1356782484565790840) and `mosa0721_` (ID: 1539165517670121535). Feel free to DM me or hop into the community server and poke me — I usually reply when I see it. (Discord is where I'm most active～)
-
-If you're interested in bot development, designing virtual economy systems, or just want to chat about how a small project grew into something used by 3,100+ servers, you're welcome to join the community and talk!
-
----
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lf94878964&theme=dark&locale=zh_Hant&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<sub>Then my old account got flagged, and my commit data went straight to the graveyard 😭</sub>

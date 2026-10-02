@@ -28,7 +28,7 @@
 ### 即時數據
 
 <!-- BOT_STATS:START -->
-| 伺服器：3.2k | 使用者：334.8k | 指令次數：3.21M |
+| 伺服器：3.2k | 使用者：336.6k | 指令次數：3.21M |
 |:---:|:---:|:---:|
 | 版本：26.8.2 | 停權用戶：1071 | 停權社群：39 |
 
@@ -36,20 +36,30 @@
 <sub>最後更新時間：2026-10-02 13:41:01 (UTC+8)</sub>
 <!-- BOT_STATS:END -->
 
+
+
 ## 其他儲存庫
 
 除了主力機器人之外，也放了一些平常寫的小東西：
 
-- **[DiscordCalculator](https://github.com/lf94878964/DiscordCalculator)** — 用 Discord.py 搭配 SymPy 寫的計算機器人，支援類 LaTeX 輸出、多種複雜函式，也能在純量、向量、矩陣之間切換運算，算是寫機器人之餘順便複習數學
-- **[Discord-GmailForward](https://github.com/lf94878964/Discord-GmailForward)** — 把 Gmail 收到的信自動轉發到 Discord 頻道的小機器人，主要是自己在用的通知工具
-- **[Ciallo-Group](https://github.com/lf94878964/Ciallo-Group)** - Ciallo～(∠・ω< )⌒☆ 一個無聊網站源代碼👉[點我前往那個網站](https://ciallo.group/)
-- **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) / [Sqrt3](https://github.com/lf94878964/Sqrt3-100Million) / [Ln2](https://github.com/lf94878964/Ln2-100Million) -100Million** — 分別提供 π、e、√2、√3、ln2 算到一億位的純文字檔下載，單純覺得好玩就丟上去了，沒有什麼特別的實用性
-- **[TCFSH-burn-timer](https://github.com/lf94878964/TCFSH-burn-timer)** — 一中版的炎上倒數計時器，校內用的小玩具 👉[點我前往那個網站](https://lf94878964.github.io/TCFSH-burn-timer/)
-- **[Git-Bat](https://github.com/lf94878964/Git-Bat)** - 給 Windows 用戶快速使用 Git 指令的`.bat`執行檔，包含常見 Git 指令（例如：pull、push、branch、merge等）
+<div align="center">
+
+<a href="https://github.com/lf94878964/DiscordCalculator"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=DiscordCalculator&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Discord-GmailForward"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Discord-GmailForward&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Ciallo-Group"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Ciallo-Group&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/TCFSH-burn-timer"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=TCFSH-burn-timer&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Git-Bat"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Git-Bat&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Pi-100Million"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Pi-100Million&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/E-100Million"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=E-100Million&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Sqrt2-100Million"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Sqrt2-100Million&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Sqrt3-100Million"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Sqrt3-100Million&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+<a href="https://github.com/lf94878964/Ln2-100Million"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=lf94878964&repo=Ln2-100Million&description_lines_count=2&hide_border=true&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F" /></a>
+
+</div>
 
 ...更多
 
-## 找得到我的地方
+## 個人連結及相關數據
 
 <p>
 <a href="https://discord.gg/nNn8GsF5bA"><img src="https://img.shields.io/badge/Discord-mura0721__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
@@ -59,6 +69,32 @@
 <a href="https://bsky.app/profile/yukicon0321.bsky.social"><img src="https://img.shields.io/badge/Bluesky-yukicon0321-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
 <a href="https://truthsocial.com/@yukicon0321"><img src="https://img.shields.io/badge/Truth%20Social-yukicon0321-8B5CF6?style=for-the-badge" alt="Truth Social"></a>
 </p>
+
+
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lf94878964&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented,contributions,all_time_contribs&show_icons=true&include_all_commits=true&hide_border=true&card_width=495&line_height=20&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3&icon_color=FF8A1F&ring_color=FF3B30" />
+  <img align="left" width="49%" src="https://github-stats-extended.vercel.app/api?username=lf94878964&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented,contributions,all_time_contribs&show_icons=true&include_all_commits=true&hide_border=true&card_width=495&line_height=20&bg_color=FFF8F3&title_color=E8380D&text_color=5A2A17&icon_color=F97316&ring_color=E8380D" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lf94878964&locale=zh_Hant&hide_border=true&background=0D0705&ring=FF3B30&fire=FF8A1F&currStreakNum=FF8A1F&sideNums=FF4D2E&currStreakLabel=FF3B30&sideLabels=FFB27A&dates=FFD1B3" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=lf94878964&locale=zh_Hant&hide_border=true&background=FFF8F3&ring=E8380D&fire=F97316&currStreakNum=F97316&sideNums=E8380D&currStreakLabel=E8380D&sideLabels=C2410C&dates=5A2A17" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lf94878964&layout=compact&langs_count=4&hide_border=true&card_width=495&bg_color=0D0705&title_color=FF4D2E&text_color=FFD1B3" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lf94878964&layout=compact&langs_count=4&hide_border=true&card_width=495&bg_color=FFF8F3&title_color=E8380D&text_color=5A2A17" />
+</picture>
+
+<br clear="all" />
+
+</div>
+
+
+<sub>然後我的舊帳號被肘擊了，Commit數據直接氨氨醛荃的抵達墓地地了😭</sub>
 
 <div align="center">
   <a href="https://discord.com/users/1356782484565790840">
@@ -70,17 +106,3 @@
     <img src="https://discord.c99.nl/widget/theme-3/1539165517670121535.png" alt="Discord Presence" />
   </a>
 </div>
-
-Discord 帳號是 `mura0721_`（ID: 1356782484565790840）跟 `mosa0721_`（ID: 1539165517670121535），有事的話直接私訊或進社群戳我都可以，看到通常都會回。（我使用頻率最高的是Discord喔～）
-
-如果對機器人開發、虛擬經濟系統設計，或單純想聊聊怎麼把一個小專案養成有 3,100 個群組在用的東西，都歡迎進社群一起聊。
-
----
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lf94878964&theme=dark&locale=zh_Hant&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<sub>然後我的舊帳號被肘擊了，Commit數據直接氨氨醛荃的抵達墓地地了😭</sub>
