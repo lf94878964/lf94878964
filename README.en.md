@@ -17,7 +17,7 @@ Rather than making the code look super clean, I care more about whether people a
 
 This is currently the project I spend the most time on and care about the most — a large public Discord bot that I wrote from scratch and have been maintaining ever since. Originally I just wanted something fun for people to play with in a server. I never expected it to grow its own long-term user base.
 
-It is now in over **3,000** servers, with more than **2.87 million** command uses. It features a complete virtual economy system (currency, shop, items), several fairly realistic gambling games, plus a bunch of chaotic and not-so-serious features that somehow become addictive. The main design goal is basically "killing boredom in Discord servers."
+It is now in over **3,100** servers, with more than **2.87 million** command uses. It features a complete virtual economy system (currency, shop, items), several fairly realistic gambling games, plus a bunch of chaotic and not-so-serious features that somehow become addictive. The main design goal is basically "killing boredom in Discord servers."
 ~~But the bot's original purpose was to be a Galgame quote bot...~~
 
 I'll keep adding more stuff in the future. If you're interested, feel free to invite it to your server and try it out!
@@ -33,7 +33,7 @@ I'll keep adding more stuff in the future. If you're interested, feel free to in
 | Version: 26.8.2 | Banned Users: 1071 | Banned Servers: 39 |
 
 
-<sub>Last updated: 2026-09-20 07:36:55 (UTC+8)</sub>
+<sub>Last updated: 2026-10-02 13:41:01 (UTC+8)</sub>
 <!-- BOT_STATS:END -->
 
 ## Other Repositories
@@ -44,7 +44,7 @@ Besides the main bot, I've also put up some smaller things I made for fun:
 - **[Discord-GmailForward](https://github.com/lf94878964/Discord-GmailForward)** — A small bot that automatically forwards emails from Gmail to a Discord channel. Mainly a personal notification tool I use myself.
 - **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) / [Sqrt3](https://github.com/lf94878964/Sqrt3-100Million) / [Ln2](https://github.com/lf94878964/Ln2-100Million) -100Million** — Pure text files of π, e, √2, √3 and ln2 calculated to 100 million digits available for download. Just thought it was fun, no real practical use.
 - **[Ciallo-Group](https://github.com/lf94878964/Ciallo-Group)** - Ciallo～(∠・ω< )⌒☆ A boring website's source code 👉[Click here to go to that website](https://ciallo.group/)
-- **[TCFSH-burn-timer](https://github.com/lf94878964/TCFSH-burn-timer)** — A "burn" (炎上) countdown timer themed around TCFSH. A small toy for school use.
+- **[TCFSH-burn-timer](https://github.com/lf94878964/TCFSH-burn-timer)** — A "burn" (炎上) countdown timer themed around TCFSH. A small toy for school use. 👉[Click here to go to that website](https://lf94878964.github.io/TCFSH-burn-timer/)
 - **[Git-Bat](https://github.com/lf94878964/Git-Bat)** - A `.bat` executable file for Windows users to quickly use Git commands, including common Git commands (such as pull, push, branch, merge, etc.).
 
 ...and more
@@ -73,7 +73,7 @@ Besides the main bot, I've also put up some smaller things I made for fun:
 
 My Discord accounts are `mura0721_` (ID: 1356782484565790840) and `mosa0721_` (ID: 1539165517670121535). Feel free to DM me or hop into the community server and poke me — I usually reply when I see it. (Discord is where I'm most active～)
 
-If you're interested in bot development, designing virtual economy systems, or just want to chat about how a small project grew into something used by 3,000+ servers, you're welcome to join the community and talk!
+If you're interested in bot development, designing virtual economy systems, or just want to chat about how a small project grew into something used by 3,100+ servers, you're welcome to join the community and talk!
 
 ---
 

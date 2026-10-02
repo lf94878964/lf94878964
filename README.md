@@ -17,7 +17,7 @@
 
 這是我目前花最多時間、也最上心在維護的專案，一個從零開始自己寫、一路養到現在的大型公開 Discord 機器人。當初只是想做一個群組裡能一起玩的東西，沒想到後來養出了自己的一群長期使用者。
 
-目前已經進駐超過 **3,000** 個群組，累積指令使用次數超過 **287 萬次**。功能上做了一套完整的虛擬經濟系統（貨幣、商店、道具都有），搭配幾款做得還算擬真的賭博遊戲，另外還塞了一堆說不上正經、但玩起來意外會上癮的各種抽象功能，算是把「群組裡的無聊時間」當成主要設計目標在做。
+目前已經進駐超過 **3,100** 個群組，累積指令使用次數超過 **287 萬次**。功能上做了一套完整的虛擬經濟系統（貨幣、商店、道具都有），搭配幾款做得還算擬真的賭博遊戲，另外還塞了一堆說不上正經、但玩起來意外會上癮的各種抽象功能，算是把「群組裡的無聊時間」當成主要設計目標在做。
 ~~但機器人初衷是旮旯給木語錄機器人欸......~~
 
 之後應該還會持續加東西進去，有興趣的話歡迎直接拉進你的群組玩玩看。
@@ -33,7 +33,7 @@
 | 版本：26.8.2 | 停權用戶：1071 | 停權社群：39 |
 
 
-<sub>最後更新時間：2026-09-20 07:36:55 (UTC+8)</sub>
+<sub>最後更新時間：2026-10-02 13:41:01 (UTC+8)</sub>
 <!-- BOT_STATS:END -->
 
 ## 其他儲存庫
@@ -43,8 +43,13 @@
 - **[DiscordCalculator](https://github.com/lf94878964/DiscordCalculator)** — 用 Discord.py 搭配 SymPy 寫的計算機器人，支援類 LaTeX 輸出、多種複雜函式，也能在純量、向量、矩陣之間切換運算，算是寫機器人之餘順便複習數學
 - **[Discord-GmailForward](https://github.com/lf94878964/Discord-GmailForward)** — 把 Gmail 收到的信自動轉發到 Discord 頻道的小機器人，主要是自己在用的通知工具
 - **[Ciallo-Group](https://github.com/lf94878964/Ciallo-Group)** - Ciallo～(∠・ω< )⌒☆ 一個無聊網站源代碼👉[點我前往那個網站](https://ciallo.group/)
+<<<<<<< HEAD
 - **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) / [Sqrt3](https://github.com/lf94878964/Sqrt3-100Million) / [Ln2](https://github.com/lf94878964/Ln2-100Million) -100Million** — 分別提供 π、e、√2、√3、ln2 算到一億位的純文字檔下載，單純覺得好玩就丟上去了，沒有什麼特別的實用性
 - **[TCFSH-burn-timer](https://github.com/lf94878964/TCFSH-burn-timer)** — 一中版的炎上倒數計時器，校內用的小玩具
+=======
+- **[Pi](https://github.com/lf94878964/Pi-100Million) / [E](https://github.com/lf94878964/E-100Million) / [Sqrt2](https://github.com/lf94878964/Sqrt2-100Million) / [Sqrt3](https://github.com/lf94878964/Sqrt3-100Million) / [Ln2](https://github.com/lf94878964/Ln2-100Million) -100Million** — 分別提供 π、e、√2、√3、ln(2) 算到一億位的純文字檔下載，單純覺得好玩就丟上去了，沒有什麼特別的實用性
+- **[TCFSH-burn-timer](https://github.com/lf94878964/TCFSH-burn-timer)** — 一中版的炎上倒數計時器，校內用的小玩具 👉[點我前往那個網站](https://lf94878964.github.io/TCFSH-burn-timer/)
+>>>>>>> 277b905a5f88e09b23bb7d33c89dea587495c15f
 - **[Git-Bat](https://github.com/lf94878964/Git-Bat)** - 給 Windows 用戶快速使用 Git 指令的`.bat`執行檔，包含常見 Git 指令（例如：pull、push、branch、merge等）
 
 ...更多
@@ -73,7 +78,7 @@
 
 Discord 帳號是 `mura0721_`（ID: 1356782484565790840）跟 `mosa0721_`（ID: 1539165517670121535），有事的話直接私訊或進社群戳我都可以，看到通常都會回。（我使用頻率最高的是Discord喔～）
 
-如果對機器人開發、虛擬經濟系統設計，或單純想聊聊怎麼把一個小專案養成有 3,000 個群組在用的東西，都歡迎進社群一起聊。
+如果對機器人開發、虛擬經濟系統設計，或單純想聊聊怎麼把一個小專案養成有 3,100 個群組在用的東西，都歡迎進社群一起聊。
 
 ---
 
