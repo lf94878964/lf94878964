@@ -75,7 +75,7 @@ Besides the main bot, I've also put up some smaller things I made for fun:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lf94878964&show_icons=true&include_all_commits=true&theme=great-gatsby" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lf94878964&include_all_commits=true&theme=great-gatsby" />
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=lf94878964&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented,contributions,all_time_contribs&show_icons=true&include_all_commits=true&hide_border=true&line_height=20&bg_color=FFF8F3&title_color=E8380D&text_color=5A2A17&icon_color=F97316&ring_color=E8380D&v=2" />
 </picture>
 <picture>
