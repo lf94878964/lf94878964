@@ -3,6 +3,7 @@
 
 # 哈囉，我是頑固苗獨分子（lf94878964）
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A449&vCenter=true&width=435&lines=Ciallo%EF%BD%9E%28%E2%88%A0%E3%83%BB%CF%89%3C+%29%E2%8C%92%E2%98%86;%E9%A0%91%E5%9B%BA%E8%8B%97%E7%8D%A8%E4%BB%BD%E5%AD%90" alt="Typing SVG" /></a>
 
 寫程式對我來說比較像是一個興趣，只是一個高中生而已，很多東西都是自己摸索、邊寫邊查邊踩雷學起來的。平常主力是寫 Discord 機器人，偶爾也會做一些跟數學、資料處理有關的小玩具，寫完覺得有點意思就丟上 GitHub 放著，也不一定會持續維護，純粹是想留個紀錄。
