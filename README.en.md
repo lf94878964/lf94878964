@@ -68,13 +68,13 @@ Besides the main bot, I've also put up some smaller things I made for fun:
 
 
 
-### Contribution Calendar
+
 
 <div align="center">
   <img src="https://profilehtml.calendar.ciallo.group/contrib.svg" alt="GitHub contribution calendar" width="100%" />
 </div>
 
-<sub>Updated every minute (Cloudflare Workers)</sub>
+
 
 <div align="center">
 
