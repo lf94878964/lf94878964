@@ -68,6 +68,14 @@
 
 
 
+### 貢獻日曆
+
+<div align="center">
+  <img src="https://profilehtml.calendar.ciallo.group/contrib.svg" alt="GitHub 貢獻日曆" width="100%" />
+</div>
+
+<sub>每分鐘自動更新（Cloudflare Workers）</sub>
+
 <div align="center">
 
 <picture>
