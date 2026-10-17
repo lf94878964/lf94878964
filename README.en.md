@@ -30,10 +30,10 @@ I'll keep adding more stuff in the future. If you're interested, feel free to in
 <!-- BOT_STATS:START -->
 | Servers: 3.4k | Users: 350.8k | Commands: 3.55M |
 |:---:|:---:|:---:|
-| Version: 26.9.4 | Banned Users: 1083 | Banned Servers: 39 |
+| Version: 26.9.6 | Banned Users: 1083 | Banned Servers: 39 |
 
 
-<sub>Last updated: 2026-10-17 21:12:53 (UTC+8)</sub>
+<sub>Last updated: 2026-10-18 24:24:52 (UTC+8)</sub>
 <!-- BOT_STATS:END -->
 
 
