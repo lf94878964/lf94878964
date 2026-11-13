@@ -17,7 +17,7 @@ Rather than making the code look super clean, I care more about whether people a
 
 This is currently the project I spend the most time on and care about the most — a large public Discord bot that I wrote from scratch and have been maintaining ever since. Originally I just wanted something fun for people to play with in a server. I never expected it to grow its own long-term user base.
 
-It is now in over **3,100** servers, with more than **2.87 million** command uses. It features a complete virtual economy system (currency, shop, items), several fairly realistic gambling games, plus a bunch of chaotic and not-so-serious features that somehow become addictive. The main design goal is basically "killing boredom in Discord servers."
+It is now in over **3,900** servers, with more than **4.10 million** command uses. It features a complete virtual economy system (currency, shop, items), several fairly realistic gambling games, plus a bunch of chaotic and not-so-serious features that somehow become addictive. The main design goal is basically "killing boredom in Discord servers."
 ~~But the bot's original purpose was to be a Galgame quote bot...~~
 
 I'll keep adding more stuff in the future. If you're interested, feel free to invite it to your server and try it out!
