@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 
-const API_URL = 'https://murasame-5c56a-default-rtdb.firebaseio.com/bot_stats.json';
+const API_URL = 'https://dcapi.murasamebot.com/stats.json';
 const MARKER_RE = /<!-- BOT_STATS:START -->[\s\S]*?<!-- BOT_STATS:END -->/;
 
 
