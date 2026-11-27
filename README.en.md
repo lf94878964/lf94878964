@@ -28,12 +28,12 @@ I'll keep adding more stuff in the future. If you're interested, feel free to in
 ### Live Stats
 
 <!-- BOT_STATS:START -->
-| Servers: 3.9k | Users: 399.2k | Commands: 4.38M |
+| Servers: 3.9k | Users: 399.5k | Commands: 4.39M |
 |:---:|:---:|:---:|
 | Version: 26.12.2 | Banned Users: 1115 | Banned Servers: 39 |
 
 
-<sub>Last updated: 2026-11-27 12:13:50 (UTC+8)</sub>
+<sub>Last updated: 2026-11-27 21:53:19 (UTC+8)</sub>
 <!-- BOT_STATS:END -->
 
 
